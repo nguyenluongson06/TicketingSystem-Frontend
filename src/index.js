@@ -1,13 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Navbar from './components/navbar';
-import Footer from './components/footer';
+import MyWebside from './pages/my_webside';
 
-const root = ReactDOM.createRoot(document.getElementById("root"));
+
+const root = ReactDOM.createRoot(document.getElementById("myWebside"));
 root.render(
   <div>
-    <Navbar />
-    <h1 style={{ height: 750 }}></h1>
-    <Footer />
+    <MyWebside />
   </div>
 );
