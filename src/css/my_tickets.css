@@ -1,0 +1,5 @@
+.myticket_view_class{
+  padding-left: 200px;
+  display: grid;
+  grid-template-columns: 500px 500px 350px;
+}

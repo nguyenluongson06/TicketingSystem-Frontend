@@ -2,10 +2,6 @@ import { memo } from "react";
 import '../css/navbar.css';
 
 const Navbar = () => {
-  // const submit = document.getElementById("btn-login-id");
-  // submit.onclick = () => {
-  //   window.location.href = "/login";
-  // };
   return <header>
     <a class="icon-logo-class" href="../index.html">
       <svg width="136" height="35" viewBox="0 0 136 35" fill="none" xmlns="http://www.w3.org/2000/svg">

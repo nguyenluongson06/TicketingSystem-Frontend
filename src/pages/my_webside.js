@@ -8,6 +8,7 @@ import Sport from './sport';
 import StageAndArt from './stage_and_art';
 import TalkShow from './talk_show';
 import MyTickets from './my_tickets';
+import Register from './register';
 
 const MyWebside = () => {
   let MainPages
@@ -29,6 +30,9 @@ const MyWebside = () => {
       break;
     case "/login":
       MainPages = Login
+      break;
+    case "/register":
+      MainPages = Register
       break;
     default:
       MainPages = Home
