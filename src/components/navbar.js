@@ -18,14 +18,14 @@ const Navbar = () => {
     </a>
     <nav class="navbar-class">
       <ul>
-        <li><a>Music</a></li>
-        <li><a>Sport</a></li>
-        <li><a>Stage and art</a></li>
-        <li><a>Talk show</a></li>
-        <li><a>My tickets</a></li>
+        <li><a href="/music">Music</a></li>
+        <li><a href="/sport">Sport</a></li>
+        <li><a href="/stage_and_art">Stage and art</a></li>
+        <li><a href="/talk_show">Talk show</a></li>
+        <li><a href="/my_tickets">My tickets</a></li>
       </ul>
     </nav>
-    <button id="btn-login-id">Login</button>
+    <a href="/login" id="btn-login-id">Login</a>
   </header>;
 };
 

@@ -1,0 +1,45 @@
+.tickets_class{
+  padding: 57px;
+}
+
+.avatar_class{
+  height: 197px;
+  width: 350px;
+  border-top-left-radius: 19px;
+  border-top-right-radius: 19px;
+}
+
+.ticket_main_content_class{
+  width: 350px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-bottom-left-radius: 19px;
+  border-bottom-right-radius: 19px;
+  display: flex;
+}
+
+.ticket_main_content_class .ticket_date_class{
+  font-size: 28px;
+  margin-right: 16px;
+  margin-left: 22px;
+  margin-top: 0px;
+}
+
+.ticket_main_content_class .ticket_month_class{
+  color: #3D37F1;
+  font-size: 12px;
+  margin-right: 16px;
+  margin-left: 22px;
+  margin-bottom: 0px;
+  margin-top: 24px;
+}
+
+.tickets_class h1{
+  font-size: 16px;
+}
+
+.tickets_class h2{
+  font-size: 14px;
+  color: #6A6A6A;
+  font-weight: normal;
+}

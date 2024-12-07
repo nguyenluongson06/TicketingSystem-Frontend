@@ -1,0 +1,67 @@
+.main_view_register_class{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 600px;
+}
+
+.title_register_class{
+  color: #696F79;
+  font-size: 16px;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+#enter-register-email-id{
+  width: 50%;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 50px;
+  border: 2px solid #8692A6;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  font-size: 16px;
+}
+
+#enter-register-fullname-id{
+  width: 50%;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 50px;
+  border: 2px solid #8692A6;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  font-size: 16px;
+}
+
+#enter-register-password-id{
+  width: 50%;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 50px;
+  border: 2px solid #8692A6;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  font-size: 16px;
+}
+
+#enter-register-gender-id{
+  width: 54.4%;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 57.5px;
+  border: 2px solid #8692A6;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  font-size: 16px;
+}
+
+#enter-register-birth-id{
+  width: 50.5%;
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 50px;
+  border: 2px solid #8692A6;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  font-size: 19px;
+}
